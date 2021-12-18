@@ -1,2 +1,1 @@
-# OOP
- To complete the CW :)
+This will be used for the completin of the OOP Coursework. Please do the allocated tasks and commit :)
